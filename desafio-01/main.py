@@ -30,7 +30,7 @@ def main():
 
     comissoes = calcular_comissoes(dados["vendas"])
 
-    print("=== COMISSÕES POR VENDEDOR ===")
+    print("COMISSÕES POR VENDEDOR")
 
     for vendedor, comissao in comissoes.items():
         print(f"{vendedor}: R$ {comissao:.2f}")
