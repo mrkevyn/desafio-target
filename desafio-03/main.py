@@ -36,7 +36,7 @@ def main():
         data_vencimento
     )
 
-    print("\nRESULTADO")
+    print("\n RESULTADO")
 
     print(f"Valor original: R$ {valor:.2f}")
     print(f"Data de vencimento: {data_vencimento.strftime('%d/%m/%Y')}")
