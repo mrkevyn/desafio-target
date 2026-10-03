@@ -13,11 +13,3 @@ com base no valor de cada venda.
 
 - Python 3
 - JSON
-
-## Como executar
-
-Clone o repositório:
-
-```bash
-git clone https://github.com/mrkevyn/desafio-target/tree/main/desafio-01
-cd desafio-comissao
