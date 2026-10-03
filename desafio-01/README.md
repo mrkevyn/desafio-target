@@ -19,5 +19,5 @@ com base no valor de cada venda.
 Clone o repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/mrkevyn/desafio-target/tree/main/desafio-01
 cd desafio-comissao
