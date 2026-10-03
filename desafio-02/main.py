@@ -84,7 +84,7 @@ def main():
         quantidade
     )
 
-    print("\nRESULTADO")
+    print("\n RESULTADO")
 
     if resultado["sucesso"]:
         print(f"ID: {resultado['identificador']}")
