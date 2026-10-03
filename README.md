@@ -27,7 +27,3 @@ Programa que calcula os juros de uma dívida considerando o valor, a data de ven
 **Tecnologia:** Python
 
 [Ver solução](./desafio-03)
-
-## Como executar
-
-Cada desafio possui seu próprio código-fonte e README com as instruções para execução.
